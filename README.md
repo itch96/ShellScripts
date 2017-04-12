@@ -16,10 +16,10 @@
 - [ ] Count total number of lines in a file without using ```wc``` command
 - [ ] Menu driven shell program to perform common arithmetic operations 
 - [ ] Menu driven shell program to find:     
-		* Total number of files
-		* Subdirectories under a directory
-		* Number of lines in a file containing \'y\'
-		* Display first and last line of a file   
+  * Total number of files
+  * Subdirectories under a directory
+  * Number of lines in a file containing \'y\'
+  * Display first and last line of a file   
 - [ ] Calculate factorial of a number using function
 - [ ] Reverse a string using function
 - [ ] Write a shell program to implement ```process``` and print word \'BYE\'
