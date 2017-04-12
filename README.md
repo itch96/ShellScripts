@@ -1,6 +1,6 @@
 # ShellScripts
 ## sripts tought in college   
-- [ ] Print a hello world program
+- [x] Print a hello world program
 - [ ] Add two numbers
 - [ ] Multiply two numbers
 - [ ] Swap two values without using third variable
