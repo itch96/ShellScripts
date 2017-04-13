@@ -2,7 +2,7 @@
 ## sripts tought in college   
 - [x] Print a hello world program
 - [x] Add two numbers
-- [ ] Multiply two numbers
+- [x] Multiply two numbers
 - [ ] Swap two values without using third variable
 - [ ] Calculate the gross salary
 - [ ] Count total number of files in a directory
