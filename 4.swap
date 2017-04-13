@@ -1,0 +1,15 @@
+#!/bin/sh
+# Swap two numbers without using the third variable
+echo "Enter two integers: "
+typeset -i var_one # make sure it is an integer
+typeset -i var_two # make sure it is an integer
+read var_one
+read var_two
+
+echo "Before swapping: $var_one and $var_two"
+
+var_one=$((var_one + var_two))
+var_two=$((var_one - var_two))
+var_one=$((var_one - var_two))
+
+echo "After swapping: $var_one and $var_two"
