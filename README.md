@@ -1,7 +1,7 @@
 # ShellScripts
 ## sripts tought in college   
 - [x] Print a hello world program
-- [ ] Add two numbers
+- [x] Add two numbers
 - [ ] Multiply two numbers
 - [ ] Swap two values without using third variable
 - [ ] Calculate the gross salary
