@@ -11,4 +11,3 @@ then
 else
 	echo "Please enter both the parameters"
 fi
-

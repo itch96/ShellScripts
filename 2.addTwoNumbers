@@ -12,4 +12,3 @@ else
 	echo "Enter Two numbers in the command line"
 	exit 0
 fi
-
