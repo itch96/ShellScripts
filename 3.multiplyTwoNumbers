@@ -1,0 +1,14 @@
+#!/bin/sh
+
+if [ $1 ]
+then
+	if [ $2 ]
+	then
+		echo "The product of $1 and $2 is:  $( expr $1 \* $2 )"
+	else
+		echo "The second parameter is missing"
+	fi
+else
+	echo "Please enter both the parameters"
+fi
+
