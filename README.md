@@ -1,11 +1,11 @@
 # ShellScripts
-## sripts tought in college   
+## sripts taught in college   
 - [x] Print a hello world program
 - [x] Add two numbers
 - [x] Multiply two numbers
 - [x] Swap two values without using third variable
 - [ ] Calculate the gross salary
-- [ ] Count total number of files in a directory
+- [x] Count total number of files in a directory
 - [ ] Display the bigger number among 3 numbers
 - [ ] Calculate average marks of a student and corresponding grade
 - [ ] Check weather the given 3 digit number is pallindrome or not
