@@ -9,7 +9,7 @@
 - [x] Display the bigger number among 3 numbers
 - [ ] Calculate average marks of a student and corresponding grade
 - [x] Check weather the given 3 digit number is pallindrome or not
-- [ ] Calculate factorial of a number
+- [x] Calculate factorial of a number
 - [ ] Calculate Fibonacci series up to a specific range
 - [ ] Display content of a file without using ```cat``` command
 - [ ] Copy the contents of one file to another
