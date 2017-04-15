@@ -13,7 +13,7 @@
 - [x] Calculate Fibonacci series up to a specific range
 - [x] Display content of a file without using ```cat``` command
 - [x] Copy the contents of one file to another
-- [ ] Count total number of lines in a file without using ```wc``` command
+- [x] Count total number of lines in a file without using ```wc``` command
 - [ ] Menu driven shell program to perform common arithmetic operations 
 - [ ] Menu driven shell program to find:     
   * Total number of files
