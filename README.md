@@ -20,7 +20,7 @@
   * Subdirectories under a directory
   * Number of lines in a file containing \'y\'
   * Display first and last line of a file   
-- [ ] Calculate factorial of a number using function
+- [x] Calculate factorial of a number using function
 - [ ] Reverse a string using function
 - [ ] Write a shell program to implement ```process``` and print word \'BYE\'
 - [ ] UNIX C program to implement Producer Consumer Algorithm using ```Semaphore```
