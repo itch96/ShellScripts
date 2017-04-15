@@ -11,7 +11,7 @@
 - [x] Check weather the given 3 digit number is pallindrome or not
 - [x] Calculate factorial of a number
 - [x] Calculate Fibonacci series up to a specific range
-- [ ] Display content of a file without using ```cat``` command
+- [x] Display content of a file without using ```cat``` command
 - [ ] Copy the contents of one file to another
 - [ ] Count total number of lines in a file without using ```wc``` command
 - [ ] Menu driven shell program to perform common arithmetic operations 
