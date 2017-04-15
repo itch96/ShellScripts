@@ -6,7 +6,7 @@
 - [x] Swap two values without using third variable
 - [ ] Calculate the gross salary
 - [x] Count total number of files in a directory
-- [ ] Display the bigger number among 3 numbers
+- [x] Display the bigger number among 3 numbers
 - [ ] Calculate average marks of a student and corresponding grade
 - [ ] Check weather the given 3 digit number is pallindrome or not
 - [ ] Calculate factorial of a number
