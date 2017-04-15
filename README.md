@@ -14,7 +14,7 @@
 - [x] Display content of a file without using ```cat``` command
 - [x] Copy the contents of one file to another
 - [x] Count total number of lines in a file without using ```wc``` command
-- [ ] Menu driven shell program to perform common arithmetic operations 
+- [x] Menu driven shell program to perform common arithmetic operations 
 - [ ] Menu driven shell program to find:     
   * Total number of files
   * Subdirectories under a directory
