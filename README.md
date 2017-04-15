@@ -8,7 +8,7 @@
 - [x] Count total number of files in a directory
 - [x] Display the bigger number among 3 numbers
 - [ ] Calculate average marks of a student and corresponding grade
-- [ ] Check weather the given 3 digit number is pallindrome or not
+- [x] Check weather the given 3 digit number is pallindrome or not
 - [ ] Calculate factorial of a number
 - [ ] Calculate Fibonacci series up to a specific range
 - [ ] Display content of a file without using ```cat``` command
