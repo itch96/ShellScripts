@@ -15,9 +15,9 @@
 - [x] Copy the contents of one file to another
 - [x] Count total number of lines in a file without using ```wc``` command
 - [x] Menu driven shell program to perform common arithmetic operations 
-- [ ] Menu driven shell program to find:     
-  * Total number of files
-  * Subdirectories under a directory
+- [x] Menu driven shell program to find:     
+  * Number of files
+  * Number of Subdirectories under a Directory
   * Number of lines in a file containing \'y\'
   * Display first and last line of a file   
 - [x] Calculate factorial of a number using function
